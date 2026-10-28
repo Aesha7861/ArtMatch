@@ -1,7 +1,5 @@
 # ArtMatch
 
-**Team RB — Aesha Gadhiya · Lizi Maisuradze**  
-
 ## Overview
 
 ArtMatch is an artwork-to-artwork retrieval prototype for the CU campus collection. Given an artwork image, it retrieves five related artworks from a gallery of 189 images across four floors, displaying artwork IDs, floor locations, similarity scores and estimated visual attributes.
