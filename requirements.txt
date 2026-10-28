@@ -1,0 +1,14 @@
+# ArtMatch Campus — Python dependencies
+# Install PyTorch with an appropriate CUDA build separately if GPU support is needed.
+torch>=2.3,<3.0
+transformers>=4.44,<5.0
+datasets>=3.0,<5.0
+numpy>=1.26,<3.0
+pandas>=2.1,<3.0
+Pillow>=10.0,<13.0
+matplotlib>=3.8,<4.0
+tqdm>=4.66,<5.0
+ipywidgets>=8.1,<9.0
+ipython>=8.0,<10.0
+jupyterlab>=4.0,<5.0
+gradio>=4.44,<6.0
